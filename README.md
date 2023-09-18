@@ -14,7 +14,9 @@ Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de 
 
 Se XP for menor do que 1.000 = Ferro <br/>
 Se XP for entre 1.001 e 2.000 = Bronze <br/>
-Se XP for entre 2.001 e 5.000 = Prata <br/>
+Se XP for entre 2.001 e 5.000 = Prata <br/> 
+- Corrigi o gap que havia entre o nível Prata e Ouro, que não exibiria a classificação entre o XP 5001 a 6000.
+
 Se XP for entre 5.001 e 7.000 = Ouro <br/>
 Se XP for entre 7.001 e 8.000 = Platina <br/>
 Se XP for entre 8.001 e 9.000 = Ascendente <br/>
