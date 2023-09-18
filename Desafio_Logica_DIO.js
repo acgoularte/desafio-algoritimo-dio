@@ -1,5 +1,6 @@
-let heroi = "NCSK";
-let xp = 1001;
+const prompt = require('prompt-sync')();
+let heroi = prompt('Informe o nome do Herói: ');
+let xp = prompt('Informe o nível do Herói: ');
 let nivel = "";
 let i = 0;
 
